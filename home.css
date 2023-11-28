@@ -29,6 +29,7 @@
     position: absolute;
     top: 120px;
     font-size:30px;
+    margin: 60px 60px;
 }
 
 .pic img{
@@ -37,4 +38,34 @@
     height: 350px;
     width: 500px;
     left: 350px;
+}
+
+.hm {
+    margin: 60px 60px;
+    position: absolute;
+    top: 400px;
+    font-size: 28px;
+}
+footer {
+    position: absolute;
+    top: 700px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    height: 40px;
+    width: 100%;
+}
+
+h2 {
+    left: 680px;
+    font-size: 44px;
+    position: absolute;
+    top: 90px;
+}
+
+.pad {
+    position: absolute;
+    top: 130px;
+    font-size: 24px;
+    margin: 40px 40px;
 }
